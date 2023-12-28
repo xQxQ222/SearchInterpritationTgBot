@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "emMHN30Eeo2a8gkBbFt+EzmZXe42n9jz5+Sz6s59t8M/FDlfgaGmc7Ee+IzVeGtXI4TK4SALrZ8NGR05/wcxsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nerou\\source\\repos\\TgBotInterpritationSearch\\TgBotInterpritationSearch\\TgBotInterpritationSearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nerou\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\nerou\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
