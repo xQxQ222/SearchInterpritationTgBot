@@ -17,20 +17,36 @@ namespace TgBot
                 .AddJsonFile("appsettings.json") 
                 .AddEnvironmentVariables()     
                 .Build();
+
             Configuration.SetProperties(config);
-            var botClient = new TelegramBotClient(Configuration.BotSettings.BotTocken);
+
+            var token = Configuration.BotSettings.BotTocken;
+
+            if (string.IsNullOrEmpty(token))
+                return;
+
+            var botClient = new TelegramBotClient(token);
+
             var receiverOptions = new ReceiverOptions { AllowedUpdates = {}, };
             var cts = new CancellationTokenSource();
+
             botClient.StartReceiving(UpdateHandler, ErrorHandler, receiverOptions, cts.Token);
+
             var myself = await botClient.GetMeAsync();
+
             Console.WriteLine($"{myself.FirstName} запущен!");
             Console.ReadLine();
         }
+
         private static async Task UpdateHandler(ITelegramBotClient botClient, Update update, CancellationToken cancellationToken)
         {
             Console.WriteLine(Newtonsoft.Json.JsonConvert.SerializeObject(update));
-            if (update.Type != UpdateType.Message)  return;
+
+            if (update.Type != UpdateType.Message)  
+                return;
+
             var message = update.Message;
+
             await botClient.SendTextMessageAsync(message.Chat.Id, message.Text, replyToMessageId: message.MessageId);
         }
 
