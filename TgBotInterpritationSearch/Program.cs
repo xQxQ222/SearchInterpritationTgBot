@@ -7,6 +7,7 @@ using Telegram.Bot.Polling;
 using Telegram.Bot.Types;
 using Telegram.Bot.Types.Enums;
 using TgBotInterpritationSearch.Configuration;
+using TgBotInterpritationSearch.WorkWithCommands;
 namespace TgBot
 {
     class Program
@@ -19,7 +20,6 @@ namespace TgBot
                 .Build();
 
             Configuration.SetProperties(config);
-
             var token = Configuration.BotSettings.BotTocken;
 
             if (string.IsNullOrEmpty(token))
@@ -27,17 +27,22 @@ namespace TgBot
 
             var botClient = new TelegramBotClient(token);
 
-            var receiverOptions = new ReceiverOptions { AllowedUpdates = {}, };
+            var receiverOptions = new ReceiverOptions { AllowedUpdates = { }, };
             var cts = new CancellationTokenSource();
 
             botClient.StartReceiving(UpdateHandler, ErrorHandler, receiverOptions, cts.Token);
+            
+            Sender sender = new Sender(botClient);
+            cmndhandler.SetCommand("/start", new StartCommand(sender));
+            cmndhandler.SetCommand("О нас", new AboutUsCommand(sender));
+            cmndhandler.SetCommand("",new WrongCommand(sender));
 
             var myself = await botClient.GetMeAsync();
 
             Console.WriteLine($"{myself.FirstName} запущен!");
             Console.ReadLine();
         }
-
+        private static CommandHandler cmndhandler = new CommandHandler();
         private static async Task UpdateHandler(ITelegramBotClient botClient, Update update, CancellationToken cancellationToken)
         {
             Console.WriteLine(Newtonsoft.Json.JsonConvert.SerializeObject(update));
@@ -47,7 +52,7 @@ namespace TgBot
 
             var message = update.Message;
 
-            await botClient.SendTextMessageAsync(message.Chat.Id, message.Text, replyToMessageId: message.MessageId);
+            await cmndhandler.Reply(message.Text, message.Chat);      
         }
 
         private static Task ErrorHandler(ITelegramBotClient botClient, Exception error, CancellationToken cancellationToken)

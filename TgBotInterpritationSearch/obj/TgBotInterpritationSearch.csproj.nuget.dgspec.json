@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nerou\\source\\repos\\TgBotInterpritationSearch\\TgBotInterpritationSearch\\TgBotInterpritationSearch.csproj": {}
+    "C:\\Users\\nerou\\OneDrive\\Рабочий стол\\TgBot\\SearchInterpritationTgBot\\TgBotInterpritationSearch\\TgBotInterpritationSearch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nerou\\source\\repos\\TgBotInterpritationSearch\\TgBotInterpritationSearch\\TgBotInterpritationSearch.csproj": {
+    "C:\\Users\\nerou\\OneDrive\\Рабочий стол\\TgBot\\SearchInterpritationTgBot\\TgBotInterpritationSearch\\TgBotInterpritationSearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nerou\\source\\repos\\TgBotInterpritationSearch\\TgBotInterpritationSearch\\TgBotInterpritationSearch.csproj",
+        "projectUniqueName": "C:\\Users\\nerou\\OneDrive\\Рабочий стол\\TgBot\\SearchInterpritationTgBot\\TgBotInterpritationSearch\\TgBotInterpritationSearch.csproj",
         "projectName": "TgBotInterpritationSearch",
-        "projectPath": "C:\\Users\\nerou\\source\\repos\\TgBotInterpritationSearch\\TgBotInterpritationSearch\\TgBotInterpritationSearch.csproj",
+        "projectPath": "C:\\Users\\nerou\\OneDrive\\Рабочий стол\\TgBot\\SearchInterpritationTgBot\\TgBotInterpritationSearch\\TgBotInterpritationSearch.csproj",
         "packagesPath": "C:\\Users\\nerou\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nerou\\source\\repos\\TgBotInterpritationSearch\\TgBotInterpritationSearch\\obj\\",
+        "outputPath": "C:\\Users\\nerou\\OneDrive\\Рабочий стол\\TgBot\\SearchInterpritationTgBot\\TgBotInterpritationSearch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,6 +45,18 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Telegram.Bot": {
               "target": "Package",
               "version": "[19.0.0, )"
