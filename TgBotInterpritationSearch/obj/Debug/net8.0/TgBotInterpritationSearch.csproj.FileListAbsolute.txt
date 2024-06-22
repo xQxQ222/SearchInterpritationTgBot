@@ -1,0 +1,48 @@
+C:\Users\nerou\source\repos\TgBotInterpritationSearch\TgBotInterpritationSearch\bin\Debug\net8.0\TgBotInterpritationSearch.exe
+C:\Users\nerou\source\repos\TgBotInterpritationSearch\TgBotInterpritationSearch\bin\Debug\net8.0\TgBotInterpritationSearch.deps.json
+C:\Users\nerou\source\repos\TgBotInterpritationSearch\TgBotInterpritationSearch\bin\Debug\net8.0\TgBotInterpritationSearch.runtimeconfig.json
+C:\Users\nerou\source\repos\TgBotInterpritationSearch\TgBotInterpritationSearch\bin\Debug\net8.0\TgBotInterpritationSearch.dll
+C:\Users\nerou\source\repos\TgBotInterpritationSearch\TgBotInterpritationSearch\bin\Debug\net8.0\TgBotInterpritationSearch.pdb
+C:\Users\nerou\source\repos\TgBotInterpritationSearch\TgBotInterpritationSearch\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\nerou\source\repos\TgBotInterpritationSearch\TgBotInterpritationSearch\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\nerou\source\repos\TgBotInterpritationSearch\TgBotInterpritationSearch\obj\Debug\net8.0\TgBotInterpritationSearch.csproj.AssemblyReference.cache
+C:\Users\nerou\source\repos\TgBotInterpritationSearch\TgBotInterpritationSearch\obj\Debug\net8.0\TgBotInterpritationSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nerou\source\repos\TgBotInterpritationSearch\TgBotInterpritationSearch\obj\Debug\net8.0\TgBotInterpritationSearch.AssemblyInfoInputs.cache
+C:\Users\nerou\source\repos\TgBotInterpritationSearch\TgBotInterpritationSearch\obj\Debug\net8.0\TgBotInterpritationSearch.AssemblyInfo.cs
+C:\Users\nerou\source\repos\TgBotInterpritationSearch\TgBotInterpritationSearch\obj\Debug\net8.0\TgBotInterpritationSearch.csproj.CoreCompileInputs.cache
+C:\Users\nerou\source\repos\TgBotInterpritationSearch\TgBotInterpritationSearch\obj\Debug\net8.0\TgBotInterpritationSearch.csproj.CopyComplete
+C:\Users\nerou\source\repos\TgBotInterpritationSearch\TgBotInterpritationSearch\obj\Debug\net8.0\TgBotInterpritationSearch.dll
+C:\Users\nerou\source\repos\TgBotInterpritationSearch\TgBotInterpritationSearch\obj\Debug\net8.0\refint\TgBotInterpritationSearch.dll
+C:\Users\nerou\source\repos\TgBotInterpritationSearch\TgBotInterpritationSearch\obj\Debug\net8.0\TgBotInterpritationSearch.pdb
+C:\Users\nerou\source\repos\TgBotInterpritationSearch\TgBotInterpritationSearch\obj\Debug\net8.0\TgBotInterpritationSearch.genruntimeconfig.cache
+C:\Users\nerou\source\repos\TgBotInterpritationSearch\TgBotInterpritationSearch\obj\Debug\net8.0\ref\TgBotInterpritationSearch.dll
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\bin\Debug\net8.0\TgBotInterpritationSearch.exe
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\bin\Debug\net8.0\TgBotInterpritationSearch.deps.json
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\bin\Debug\net8.0\TgBotInterpritationSearch.runtimeconfig.json
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\bin\Debug\net8.0\TgBotInterpritationSearch.dll
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\bin\Debug\net8.0\TgBotInterpritationSearch.pdb
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\obj\Debug\net8.0\TgBotInterpritationSearch.csproj.AssemblyReference.cache
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\obj\Debug\net8.0\TgBotInterpritationSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\obj\Debug\net8.0\TgBotInterpritationSearch.AssemblyInfoInputs.cache
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\obj\Debug\net8.0\TgBotInterpritationSearch.AssemblyInfo.cs
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\obj\Debug\net8.0\TgBotInterpritationSearch.csproj.CoreCompileInputs.cache
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\obj\Debug\net8.0\TgBotInterpritationSearch.sourcelink.json
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\obj\Debug\net8.0\TgBotInterpritationSearch.csproj.CopyComplete
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\obj\Debug\net8.0\TgBotInterpritationSearch.dll
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\obj\Debug\net8.0\refint\TgBotInterpritationSearch.dll
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\obj\Debug\net8.0\TgBotInterpritationSearch.pdb
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\obj\Debug\net8.0\TgBotInterpritationSearch.genruntimeconfig.cache
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\obj\Debug\net8.0\ref\TgBotInterpritationSearch.dll
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\bin\Debug\net8.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nerou\OneDrive\Рабочий стол\TgBot\SearchInterpritationTgBot\TgBotInterpritationSearch\bin\Debug\net8.0\appsettings.json

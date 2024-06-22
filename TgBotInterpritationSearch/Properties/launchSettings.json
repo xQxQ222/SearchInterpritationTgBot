@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TgBotInterpritationSearch": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "StorageTgBotSets:BotTocken": "6739860750:AAE2_cJKOsBoew7VtaES0saW30XdkXHcdkE"
+      }
+    }
+  }
+}
